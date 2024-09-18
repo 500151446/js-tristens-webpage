@@ -16,6 +16,10 @@ nav{
 
 }
 
+#welcome{
+    text-align: center;
+}
+
 main{
     width: 60%;
     float: left;
